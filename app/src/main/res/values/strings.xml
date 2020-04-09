@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="start">Начать</string>
+    <string name="back">Назад</string>
+    <string name="contentDescription">Фото мальчика</string>
+    <string name="PhotoBoysBackground">TODO</string>
+    <string name="Boys" />
+    <string name="Background_main">TODO</string>
+    <string name="Background_Main">TODO</string>
+    <string name="Background_level">TODO</string>
+    <string name="background_level1">TODO</string>
+    <string name="level">Уровень: </string>
+    <string name="level1">Уровень 1</string>
+    <string name="level2">Уровень 2</string>
+    <string name="level_background">TODO</string>
+    <string name="bOYS_MAIN">TODO</string>\
+    <string name="text_continue">Продолжить</string>
+    <string name="button_backed"> назад </string>
+</resources>
