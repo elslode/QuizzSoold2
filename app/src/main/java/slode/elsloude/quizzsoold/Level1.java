@@ -186,7 +186,6 @@ public class Level1 extends AppCompatActivity {
         }
         //цикл с предусловием сравнения чисел конец
 
-
         img_right.setImageResource(array.images1[numRight]); //достаем из массива картинку
         text_right.setText(array.texts1[numRight]); //Достаем из массива текст
 
