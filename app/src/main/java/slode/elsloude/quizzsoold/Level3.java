@@ -127,8 +127,8 @@ public class Level3 extends AppCompatActivity {
         dialogEnd.setCancelable(false);//окно нельзя закрыть кнопкой назад
 
         //Устанавливаем фон диалогового окна - начало
-        LinearLayout dialogEndsw = (LinearLayout) dialogEnd.findViewById(R.id.dialogEnds);
-        dialogEndsw.setBackgroundResource(R.drawable.previewbackgroundfon);
+        LinearLayout dialogfonEnd = (LinearLayout) dialogEnd.findViewById(R.id.dialogfon);
+        dialogfonEnd.setBackgroundResource(R.drawable.previewbackgroundfon);
         //Устанавливаем фон диалогового окна - конец
 
         //нтересный факт начало
